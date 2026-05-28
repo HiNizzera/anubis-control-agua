@@ -33,4 +33,4 @@ Se puede hacer desde spawn con este lineup: [Smoke escaleras](smoke-escaleras.md
 ## 2. Flasheamos escaleras desde medio   
 Tiramos flash escaleras con este lineup: [Flash escaleras](flash-escaleras.md)    
 ## 3. Apliamos el control con una molly en varanda   
-![image_1779932751096_0](files\image_1779932751096_0.png)    
+![image_1779932751096_0](files/image_1779932751096_0.png)    
